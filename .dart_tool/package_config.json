@@ -3,27 +3,27 @@
   "packages": [
     {
       "name": "characters",
-      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/characters-1.3.0",
+      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/characters-1.4.0",
       "packageUri": "lib/",
-      "languageVersion": "2.12"
+      "languageVersion": "3.4"
     },
     {
       "name": "collection",
-      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/collection-1.18.0",
+      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/collection-1.19.1",
       "packageUri": "lib/",
-      "languageVersion": "2.18"
+      "languageVersion": "3.4"
     },
     {
       "name": "flutter",
       "rootUri": "file:///home/sumit/softwares/flutter/packages/flutter",
       "packageUri": "lib/",
-      "languageVersion": "3.3"
+      "languageVersion": "3.7"
     },
     {
       "name": "flutter_secure_storage_platform_interface",
-      "rootUri": "file:///home/sumit/.pub-cache/git/flutter_secure_storage_platform_interface-cbb1a4ba107d848d1ae323f2b5381da343d705d1/",
+      "rootUri": "file:///home/sumit/.pub-cache/git/flutter_secure_storage_platform_interface-293abac64a9b2a8db48a73f325d47c8d9d3f1417/",
       "packageUri": "lib/",
-      "languageVersion": "3.1"
+      "languageVersion": "3.3"
     },
     {
       "name": "material_color_utilities",
@@ -33,7 +33,7 @@
     },
     {
       "name": "meta",
-      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/meta-1.15.0",
+      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/meta-1.16.0",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -47,7 +47,7 @@
       "name": "sky_engine",
       "rootUri": "file:///home/sumit/softwares/flutter/bin/cache/pkg/sky_engine",
       "packageUri": "lib/",
-      "languageVersion": "3.2"
+      "languageVersion": "3.7"
     },
     {
       "name": "vector_math",
@@ -59,13 +59,13 @@
       "name": "flutter_secure_storage_linux",
       "rootUri": "../",
       "packageUri": "lib/",
-      "languageVersion": "3.1"
+      "languageVersion": "3.3"
     }
   ],
-  "generated": "2024-10-21T23:34:44.843366Z",
+  "generated": "2025-02-16T11:44:34.101687Z",
   "generator": "pub",
-  "generatorVersion": "3.5.3",
+  "generatorVersion": "3.7.0",
   "flutterRoot": "file:///home/sumit/softwares/flutter",
-  "flutterVersion": "3.24.3",
+  "flutterVersion": "3.29.0",
   "pubCache": "file:///home/sumit/.pub-cache"
 }
